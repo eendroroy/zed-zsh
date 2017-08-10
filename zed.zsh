@@ -2,4 +2,4 @@
 
 PLUG_ROOT=${0:A:h}
 
-source "${THEME_ROOT}/lib/z/z.sh"
+source "${PLUG_ROOT}/lib/z/z.sh"
