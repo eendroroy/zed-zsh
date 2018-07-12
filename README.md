@@ -1,5 +1,4 @@
 # ZED
-### z in zsh
 
 [![GitHub tag](https://img.shields.io/github/tag/eendroroy/zed-zsh.svg)](https://github.com/eendroroy/zed-zsh/tags)
 
@@ -10,6 +9,9 @@
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/eendroroy/zed-zsh.svg)](https://github.com/eendroroy/zed-zsh/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/eendroroy/zed-zsh.svg)](https://github.com/eendroroy/zed-zsh/pulls)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/eendroroy/zed-zsh.svg)](https://github.com/eendroroy/zed-zsh/pulls?q=is%3Apr+is%3Aclosed)
+
+
+**z in zsh**
 
 ## Installation
 
